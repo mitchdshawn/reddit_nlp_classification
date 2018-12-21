@@ -12,3 +12,9 @@ The model will work any two sub-Reddits, the default used here were for the two 
 ### Data Science Problem
 
 Are the comments between two given sub-Reddits significantly different enough for a machine learning model to categorize the comments into their respective groups?
+
+
+### Links to Reddits Used
+
+[Stellaris](https://www.reddit.com/r/Stellaris/)
+[Dwarf Fortress](https://www.reddit.com/r/dwarffortress/)
